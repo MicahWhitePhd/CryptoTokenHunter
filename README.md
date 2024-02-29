@@ -16,7 +16,7 @@ This script also requires several Python libraries, including `requests`, `aioht
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CryptoTokenHunter.git
+   git clone https://github.com/MicahWhitePhd/CryptoTokenHunter.git
    cd CryptoTokenHunter
    ```
 
